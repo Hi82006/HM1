@@ -18,13 +18,13 @@
 }
 .link-list li:nth-child(1) {
     padding-top: 33px;
-    background: url(img/wiki.jpg) no-repeat 5px 5px;
+    background: url(wiki.jpg) no-repeat 5px 5px;
     background-size: 50px;
 
 
 }
 .link-list li:nth-child(2) {
     padding-top: 24px;
-    background: url(img/google_logo.jpg) no-repeat 5px 5px;
+    background: url(google_logo.jpg) no-repeat 5px 5px;
     background-size: 50px;
 }
