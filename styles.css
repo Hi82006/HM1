@@ -9,8 +9,11 @@
     padding-left: 2px;
    list-style-type: none;
 }
+a.url {
+    position: relative;
+    bottom: 0px;
+}
 .link-list li {
-    height: 50px;
     padding-bottom: 5px;
     padding-left: 70px;
     /* border-bottom: 1px  solid #ccc; */
